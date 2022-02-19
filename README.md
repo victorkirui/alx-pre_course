@@ -1,1 +1,1 @@
-My first readme
+Simulate working with team
